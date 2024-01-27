@@ -13,6 +13,8 @@ For developers:
 Visual studio 2022
 .net8
 
+I use MetadataExtractor library to find out taken/creation date from files.
+https://github.com/drewnoakes/metadata-extractor
 
 If you have a file outside folders structure, look in the properties of the file and put it in the right folder before run to get all things done :)
 
