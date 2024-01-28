@@ -24,9 +24,9 @@ If you have a file outside folders structure, look in the properties of the file
 
 If you have different needs like bellow, please, send me a message.
 
-1 - Move pictures wihtout date to a different folder
-2 - Use year of picture date instead of folder's name
-3 - Organize in other way
-4 - Custom name of 'Photos of YEAR'
-5 - Compile for another plataform (linux)
+1 - Move pictures wihtout date to a different folder<br>
+2 - Use year of picture date instead of folder's name<br>
+3 - Organize in other way<br>
+4 - Custom name of 'Photos of YEAR'<br>
+5 - Compile for another plataform (linux)<br>
 6 - Anything else
