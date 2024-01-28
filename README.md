@@ -7,11 +7,11 @@ I created this program to solve two problems:<br>
 1 - Remove short videos of live photos (keep the image part)<br>
 2 - Organize photos by month instead of year like google does
 
-You need to use google takeout before use this program.
-After dowload data, you have to uncompress all files and remove all .json files that come together.
-Those files contains metadata, but I realize that pictures already have their metadata.
-To remove them I search for ".json" in windows explorer search field and then seletecd all and delete.
-My case was 80GB of photos and this program worked well.
+You need to use google takeout before use this program.<br>
+After dowload data, you have to uncompress all files and remove all .json files that come together.<br>
+Those files contains metadata, but I realize that pictures already have their metadata.<br>
+To remove them I search for ".json" in windows explorer search field and then seletecd all and delete.<br>
+My case was 80GB of photos and this program worked well.<br>
 After process all files, I move the folders to my onedrive Pictures folder.
 
 For developers:
